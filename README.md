@@ -1,5 +1,3 @@
-![Prince Shammah](https://i0.wp.com/www.xyruscode.com/wp-content/uploads/2021/09/xyrus.png?w=471&ssl=1)
-
 <h2 align="center">Hi, there 👋</h2>
 
 <p align="center">I'm Xyrus.<br/> Web and Android Dev <b>huge</b> fan of Sci-Fi.</p>
