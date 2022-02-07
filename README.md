@@ -1,6 +1,6 @@
 <h2 align="center">Hi, there 👋</h2>
 
-<p align="center">I'm Xyrus.<br/> Web and Android Dev <b>huge</b> fan of Sci-Fi.</p>
+<p align="center">I'm Xyrus.<br/> Web and Android Dev and <b>huge</b> fan of Sci-Fi.</p>
 </p>
 
 <p align="center">
