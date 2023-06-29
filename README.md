@@ -1,6 +1,7 @@
 <h2 align="center">Hello, there 👋</h2>
 
-<p align="center">I'm Xyrus.<br/> Web and Android Dev and <b>huge</b> fan of Sci-Fi.</p>
+<p align="center">I'm Xyrus.<br/> Full Stack Developer, but only because "Magician" wasn't an option on LinkedIn. 🎩🐰🔮
+ |Android|React⚛️|Next.js|Firebase</p>
 </p>
 
 <p align="center">
