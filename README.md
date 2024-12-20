@@ -1,76 +1,63 @@
-<h2 align="center">Hello, there 👋</h2>
+# Hi there, I'm XyrusCode! 👋
 
-<p align="center">
-I'm Xyrus.<br/>
-Full Stack Developer, but only because "Magician" wasn't an option on LinkedIn. 🎩🐰🔮  
-| Android | React ⚛️ | Next.js | Firebase |
-</p>
+Welcome to my GitHub profile! I'm passionate about technology and coding, and I love to create, learn, and share knowledge with others.
 
-<p align="center">
-  <a href="http://twitter.com/xyruscode">
-    <img src="https://img.shields.io/twitter/follow/xyruscode?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/xyrus-code">
-    <img src="https://img.shields.io/badge/LinkedIn-52-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
-  </a>
-</p>
+## 🔭 What I'm Working On
 
----
+- **Open Source Projects:** Contributing to various open source projects and creating new ones.
+- **Learning:** Continuously learning new technologies and improving my skills in programming.
+- **Community Engagement:** Actively participating in the developer community, attending meetups, and helping others.
 
-### 👨‍💻 About Me
-- 🔭 Currently working on building innovative and scalable web and mobile applications.  
-- 🌱 Constantly learning and improving skills in modern tech stacks, especially **TypeScript**, **GraphQL**, and **Flutter**.  
-- 💬 Ask me about web and mobile app development, or how to conjure code out of thin air.  
+## 🌱 What I'm Learning
 
----
+- **Web Development:** Enhancing my skills in front-end and back-end development.
+- **Cloud Computing:** Exploring cloud platforms like AWS, Azure, and Google Cloud.
+- **DevOps:** Learning about CI/CD pipelines, containerization, and orchestration.
 
-### 🛠 Tech Stack
-#### Languages
-- JavaScript (ES6+), TypeScript, Python, Java, Dart
+## 👯 Looking to Collaborate On
 
-#### Frameworks & Libraries
-- React, Next.js, React Native, Firebase, Flutter, Express.js, Node.js
+- Exciting open source projects.
+- Innovative ideas and startups.
+- Community-driven initiatives and events.
 
-#### Tools & Platforms
-- Android Studio, Visual Studio Code, Git & GitHub, Figma, Firebase, Vercel
+## 💬 Ask Me About
 
-#### Database Systems
-- Firestore, MongoDB, MySQL, SQLite
+- Web development (HTML, CSS, JavaScript, React, Node.js).
+- Python programming and scripting.
+- Git and GitHub best practices.
+- Anything tech-related!
 
----
+## 📫 How to Reach Me
 
-### 🚀 Featured Projects
+- **Email:** [prince@xyruscode.com.ng](mailto:prince@xyruscode.com.ng)
+- **LinkedIn:** [xyruscode](https://www.linkedin.com/in/xyruscode)
+- **Twitter:** [@xyruscode](https://twitter.com/xyruscode)
+- **Instagram:** [@xyruscode](https://instagram.com/xyruscode)
 
-#### 1. **[Next.js Portfolio](https://github.com/xyrus/nextjs-portfolio)** 🌐  
-A sleek and responsive portfolio website built using Next.js and Tailwind CSS.
+## ⚡ Fun Fact
 
-- **Features**: Blog integration, projects showcase, and light/dark mode.  
-- **Tech Stack**: Next.js, Tailwind CSS, Markdown.
+I love solving puzzles, playing chess, and exploring new places!
 
----
+## 🛠️ Languages and Tools
 
-### 📊 GitHub Stats
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyrus&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
----
+![XyrusCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XyrusCode&show_icons=true&theme=dark)
 
-### 🤝 Let's Connect
-I'm always excited to connect with like-minded individuals!  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XyrusCode&layout=compact&theme=dark)
 
-<p align="center">
-  <a href="http://twitter.com/xyruscode">
-    <img src="https://img.shields.io/twitter/follow/xyruscode?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/xyrus-code">
-    <img src="https://img.shields.io/badge/LinkedIn-52-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
-  </a>
-  <a href="mailto:xyrus@magicaldev.com">
-    <img src="https://img.shields.io/badge/Email-xyrus@magicaldev.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
 
----
+![XyrusCode's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=XyrusCode&theme=darkhub&row=1&no-frame=true)
 
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects or just chat about tech.
