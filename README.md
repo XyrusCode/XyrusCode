@@ -32,17 +32,18 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 - **Email:** [prince@xyruscode.com.ng](mailto:prince@xyruscode.com.ng)
 - **LinkedIn:** [xyruscode](https://www.linkedin.com/in/xyruscode)
 - **Twitter:** [@xyruscode](https://twitter.com/xyruscode)
-- **Instagram:** [@xyruscode](https://instagram.com/xyruscode)
+- **Instagram:** [@xyrus.kode](https://instagram.com/xyrus.kode)
 
 ## ⚡ Fun Fact
 
-I love solving puzzles, playing chess, and exploring new places!
+I love solving puzzles, playing videogames, and staying hpme!
 
 ## 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
